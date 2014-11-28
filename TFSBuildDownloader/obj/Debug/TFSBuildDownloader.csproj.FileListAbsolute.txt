@@ -1,0 +1,8 @@
+E:\Projects\TFSBuildDownloader\TFSBuildDownloader\bin\Debug\TFSBuildDownloader.exe.config
+E:\Projects\TFSBuildDownloader\TFSBuildDownloader\bin\Debug\TFSBuildDownloader.exe
+E:\Projects\TFSBuildDownloader\TFSBuildDownloader\bin\Debug\TFSBuildDownloader.pdb
+E:\Projects\TFSBuildDownloader\TFSBuildDownloader\obj\Debug\TFSBuildDownloader.csprojResolveAssemblyReference.cache
+E:\Projects\TFSBuildDownloader\TFSBuildDownloader\obj\Debug\TFSBuildDownloader.exe
+E:\Projects\TFSBuildDownloader\TFSBuildDownloader\obj\Debug\TFSBuildDownloader.pdb
+E:\Projects\TFSBuildDownloader\TFSBuildDownloader\bin\Debug\Newtonsoft.Json.dll
+E:\Projects\TFSBuildDownloader\TFSBuildDownloader\bin\Debug\Newtonsoft.Json.xml
